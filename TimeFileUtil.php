@@ -1,7 +1,7 @@
 <?php
 
 
-namespace TimeFileUtil;
+namespace Ling\TimeFileUtil;
 
 
 class TimeFileUtil

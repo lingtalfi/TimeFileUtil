@@ -13,7 +13,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import TimeFileUtil
+uni import Ling/TimeFileUtil
 ```
 
 
@@ -45,7 +45,7 @@ Imagine you have a directory containing timed files, for instance:
 ```php
 <?php
 
-use TimeFileUtil\TimeFileUtil;
+use Ling\TimeFileUtil\TimeFileUtil;
 
 
 require_once "bigbang.php";
