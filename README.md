@@ -78,6 +78,10 @@ Note, you can change the extractor callback to adapt different file formats.
 History Log
 ------------------
 
+- 1.0.2 -- 2020-12-08
+
+    - Fix lpi-deps not using natsort.
+
 - 1.0.1 -- 2020-12-04
 
     - Add lpi-deps.byml file
